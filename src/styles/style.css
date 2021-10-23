@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.bg {
+  background: #0e1842;
+}
+.linea {
+  border-top: 2px solid #fff;
+}
